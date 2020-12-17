@@ -1,0 +1,9 @@
+ID || First Name || Last Name || Phone Number || E-mail
+474355 || Dad || gopinath || 71673076 || gopinath20@hotmail.com
+890780 || Mom || Bala || 71806888 || geethagopi75@gmail.com
+589 || JoAnn || Sanu || 59302909 || joann.sanu@gmail.com
+34 || Marvin || Deepak || 38298298 || marvin.deepak@polyu.edu.hk
+2983 || Simran || Gulati || 38298488 || simrangulati@outlook.com
+34329 || Lem || Wyehong || 49032034 || lemwhong@sadia.gov
+3432 || yeok || cheah || 39203543 || yeok@email.com
+890781 || kevin || thosatria || 12345678 || kevin@gmail.com
